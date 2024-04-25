@@ -3,7 +3,7 @@ import { FormBuilder, FormArray, FormControl, FormGroup, Validators } from '@ang
  
  
 @Component({
-  selector: 'app-root       ',
+  selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
